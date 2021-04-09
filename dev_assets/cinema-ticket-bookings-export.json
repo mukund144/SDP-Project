@@ -292,21 +292,21 @@
   "movies": {
     "m1": {
       "category": 1,
-      "cover": "https://i.ytimg.com/vi/ICAC8Yk6ZXo/maxresdefault.jpg",
-      "description": "This is the story of the amazing spiderman",
+      "cover": "https://indiatribune.com/wp-content/uploads/2019/10/War-1.jpg",
+      "description": "War is a Indian Hindi-language action thriller film directed by Siddharth Anand and produced by Aditya Chopra under his banner Yash Raj Films, it stars Hrithik Roshan and Tiger Shroff in the lead roles. The film also features Vaani Kapoor, Ashutosh Rana, Anupriya Goenka and Soni Razdan in supporting roles",
       "isTicketAvailable": true,
       "rateing": 4.9,
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg",
-      "title": "Amazing spiderman"
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsHHM8pzbFQVcRVeys4kD1tnGA_dywwagbY8SJi-_NwZQxf-Rt",
+      "title": "War"
     },
     "m2": {
       "category": 3,
-      "cover": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/48/1480508469-harry-potter-in-90-minutes-1480436463.jpg",
-      "description": "This is the story of the little boy Harry",
+      "cover": "https://static.toiimg.com/photo/msid-68730917/68730917.jpg",
+      "description": "Stree is a Indian Hindi-language horror comedy film whose plot is inspired by the Karnataka urban legend known as Nale Ba (English: 'Come Tomorrow'), about a spirit who knocks on people's doors at night.",
       "isTicketAvailable": true,
       "rateing": 4.5,
-      "thumbnail": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/harry_potter_8film_2000x3000.jpg",
-      "title": "Harry potter"
+      "thumbnail": "https://contentserver.com.au/assets/653486_stree_v8.jpg",
+      "title": "Stree"
     },
     "m3": {
       "category": 3,
@@ -319,48 +319,48 @@
     },
     "m4": {
       "category": 2,
-      "cover": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1513982397/171220-ryan-home-alone-tease_zntomw",
-      "description": "He is home alone!",
+      "cover": "https://stat1.bollywoodhungama.in/wp-content/uploads/2016/03/50352146.jpg",
+      "description": "Welcome is an Indian Hindi-language comedy film written and directed by Anees Bazmee, which stars Feroz Khan, Anil Kapoor, Nana Patekar, Akshay Kumar, Katrina Kaif, Paresh Rawal,and Mallika Sherawat, with Suniel Shetty making a guest appearance and Malaika Arora featuring in an item number",
       "isTicketAvailable": true,
-      "rateing": 4.3,
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/76/Home_alone_poster.jpg",
-      "title": "Home Alone"
+      "rateing": 4.5,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6oH9_g3aQlVaYmhHM7ncy67lIPxNKHWx7jfvLeF70AEjJO8cz",
+      "title": "Welcome"
     },
     "m5": {
       "category": 2,
-      "cover": "https://in.bookmyshow.com/entertainment/wp-content/uploads/2018/09/960x540_1-1.jpg",
+      "cover": "https://www.glamsham.com/wp-content/uploads/2020/07/14-years-of-Golmaal-Fun-Unlimited-Iconic-Dialogues-from-the-film.jpg",
       "description": "Really funny movie!",
       "isTicketAvailable": true,
       "rateing": 4.6,
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",
-      "title": "Johnny English"
+      "thumbnail": "https://i.bollywoodmantra.com/albums/movie-stills/golmaal/golmaal_sharman-joshi_ajay-devgan_tusshar-kapoor_arshad-warsi_8781.jpg",
+      "title": "Golmaal: Fun Unlimited"
     },
     "m6": {
       "category": 1,
-      "cover": "https://images.indianexpress.com/2019/04/iron-man-avengers-1200.jpeg",
-      "description": "The story of Iron man!",
+      "cover": "https://www.meinstyn.com/wp-content/uploads/2020/05/Singham-Movie-Dialogues-Full-HD-Poster-Ajay-Devgan-Kajol-Aggarwal-Prakash-Raj-678x381.jpg",
+      "description": "The story of Indian Police Man",
       "isTicketAvailable": true,
       "rateing": 4.2,
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg",
-      "title": "Iron Man"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Singham_%282011_Hindi_film%29_Theatrical_poster.jpg/220px-Singham_%282011_Hindi_film%29_Theatrical_poster.jpg",
+      "title": "Singham"
     },
     "m7": {
       "category": 1,
-      "cover": "https://filmschoolrejects.com/wp-content/uploads/2019/08/commentary-avengers-endgame-1280x720.jpg",
-      "description": "It is the end of the game",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71Z2orOJERL._SL1280_.jpg",
+      "description": "In the kingdom of Mahishmati, while pursuing his love, Shivudu learns about the conflict ridden past of his family and his legacy. He must now prepare himself to face his newfound arch-enemy",
       "isTicketAvailable": true,
-      "rateing": 4.3,
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
-      "title": "End game"
+      "rateing": 4.7,
+      "thumbnail": "https://i.pinimg.com/originals/69/4d/9b/694d9be0c56b90a56a9fe4b7aa03b9db.jpg",
+      "title": "Baahubali: The Beginning"
     },
     "m8": {
       "category": 3,
-      "cover": "https://filmschoolrejects.com/wp-content/uploads/2019/05/annabelle-1280x720.jpg",
-      "description": "Very Scarry!",
+      "cover": "https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/dan/bollyhorror/1920.jpg",
+      "description": "Very Scarry Movie!",
       "isTicketAvailable": true,
       "rateing": 4.5,
-      "thumbnail": "https://lh3.googleusercontent.com/QVxRkggnOWcUs7D5c1DfHpxsl7mdfigBDgXM3LUaibIVnAaxFxW7Nf8nXC-xJrmtJzI",
-      "title": "Anabella"
+      "thumbnail": "https://occ-0-300-299.1.nflxso.net/art/43e48/b160d21a269b9a401f61b117f9ca0188d2743e48.jpg",
+      "title": "1920"
     },
     "m9": {
       "category": 3,

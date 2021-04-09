@@ -18,7 +18,7 @@ class UserBookingProvider with ChangeNotifier {
 
   Future<void> placeBooking(UserBooking newBooking) async {
     var url =
-        'https://cinema-ticket-bookings.firebaseio.com/users/$userId/bookings.json';
+        'https://movieticketadmin-default-rtdb.firebaseio.com/users/$userId/bookings.json';
 
     final res = await http.post(url,
         body: jsonEncode({
@@ -38,7 +38,7 @@ class UserBookingProvider with ChangeNotifier {
 
   Future<void> fetchAndSetBookings() async {
     final url =
-        'https://cinema-ticket-bookings.firebaseio.com/users/$userId/bookings.json';
+        'https://movieticketadmin-default-rtdb.firebaseio.com/users/$userId/bookings.json';
 
     try {
       var res = await http.get(url);

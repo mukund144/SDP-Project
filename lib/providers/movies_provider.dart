@@ -107,7 +107,8 @@ class MoviesProvider with ChangeNotifier {
   ];
 
   Future<void> fetchAndSetMovies() async {
-    const url = 'https://cinema-ticket-bookings.firebaseio.com/movies.json';
+    const url =
+        'https://movieticketadmin-default-rtdb.firebaseio.com/movies.json';
 
     var res = await http.get(url);
     List<Movie> movieList = [];

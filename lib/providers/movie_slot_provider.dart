@@ -26,7 +26,7 @@ class MovieSlotProvider with ChangeNotifier {
     print('movie ' + movieId);
 
     final url =
-        'https://cinema-ticket-bookings.firebaseio.com/movieSlots/$movieId.json';
+        'https://movieticketadmin-default-rtdb.firebaseio.com/movieSlots/$movieId.json';
 
     var res = await http.get(url);
 

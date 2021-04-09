@@ -32,7 +32,7 @@ class AuthProvider with ChangeNotifier {
 
   Future<void> _auth(String email, String password, String urlSegment) async {
     final url =
-        'https://identitytoolkit.googleapis.com/v1/accounts:$urlSegment?key=AIzaSyApoAh97ojvGr9bnPeudn3Jt5HYglTSQiE';
+        'https://identitytoolkit.googleapis.com/v1/accounts:$urlSegment?key=AIzaSyBluRoj9_9ihG6sGvIppB0UZ4KrVeKuFlo';
 
     try {
       final res = await http.post(url,
@@ -75,13 +75,13 @@ class AuthProvider with ChangeNotifier {
 
   Future<bool> tryAutoLogin() async {
     final prefs = await SharedPreferences.getInstance();
-    if(!prefs.containsKey('userData')) {
+    if (!prefs.containsKey('userData')) {
       return false;
     }
     final extractedUserData = jsonDecode(prefs.getString('userData'));
     final expiryDate = DateTime.parse(extractedUserData['expiryDate']);
 
-    if(expiryDate.isBefore(DateTime.now())) {
+    if (expiryDate.isBefore(DateTime.now())) {
       return false;
     }
     _token = extractedUserData['token'];
